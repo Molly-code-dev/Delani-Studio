@@ -8,7 +8,10 @@ This project is a web application for Delani studio that shows details about the
 Screenshot
 
 
-<img src="images/Delani_Studio.jpg">
+
+
+
+<img src="images/delanihome.png">
 
 
 Live Page
@@ -17,9 +20,9 @@ https://github.com/Molly-code-dev/Delani-Studio
 Installation / Setup instruction
 Open Terminal {Ctrl+Alt+T}
 
-git clone https://github.com/Molly-code-dev/Delani-studio.git
+git clone https://github.com/Molly-code-dev/Delani-Studio.git
 
-cd Delani-studio
+cd Delani-Studio
 
 code . or atom . depending on the text editor of your choise.
 
