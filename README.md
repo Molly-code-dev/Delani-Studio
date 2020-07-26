@@ -7,7 +7,8 @@ This project is a web application for Delani studio that shows details about the
 
 Screenshot
 
-<img src="images/Delani_Studio.jpg" alt="A photo of a Delani-Studio">
+
+<img src="images/Delani_Studio.jpg">
 
 
 Live Page
@@ -16,9 +17,9 @@ https://github.com/Molly-code-dev/Delani-Studio
 Installation / Setup instruction
 Open Terminal {Ctrl+Alt+T}
 
-git clone https://github.com/Molly-code-dev/Delani-Studio.git
+git clone https://github.com/Molly-code-dev/Delani-studio.git
 
-cd Delani-Studio
+cd Delani-studio
 
 code . or atom . depending on the text editor of your choise.
 
