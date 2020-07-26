@@ -11,7 +11,7 @@ Screenshot
 
 
 
-<img src="images/delanihome.png">
+<img src="images/Delani Studio.jpg">
 
 
 Live Page
