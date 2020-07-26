@@ -7,7 +7,7 @@ This project is a web application for Delani studio that shows details about the
 
 Screenshot
 
-<img src="images/Delani studio.jpg" alt="A photo of a Delani studio">
+<img src="images/Delani_Studio.jpg" alt="A photo of a Delani-Studio">
 
 
 Live Page
